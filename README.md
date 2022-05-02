@@ -5,7 +5,3 @@
 👯 I’m looking to collaborate on open source projects
 💬 Ask me about anything, I'll be glad to help you in any way I can
 ✨ Fun fact: I've traveled around the world in a motothome powered by recycled cooking oil 
-
-
-
-![Snake animation](https://github.com/larissautermohl/larissautermohl/blob/output/github-contribution-grid-snake.svg)
