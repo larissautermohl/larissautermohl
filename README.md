@@ -37,7 +37,4 @@
  
 </div>
 
-
- 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=larissautermohl&repo=larissautermohl&theme=react)]
   
